@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Badr, a 22 year old Frontend Designer & Developer living near Amsterdam.
+My name is badr, a 20 year old Frontend Designer & Developer living near Amsterdam.
  
 # Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro404\&include_all_commits=true&show_icons=true\&show=prs_merged,prs_merged_percentage\&title_color=ffffff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=000000)
